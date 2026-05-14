@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="https://github.com/Strarist">
-    <img src="https://komarev.com/ghpvc/?username=Strarist&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Strarist&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
   <a href="https://www.linkedin.com/in/adigupta1620/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:adig167320@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email" />
   </a>
 </p>
 
@@ -17,12 +17,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year B.Tech CSE student at Bennett University (2026)
-- 💼 Software Engineering Intern at CollegeDilao
-- 🛠️ Building scalable web applications, APIs, and AI-powered tools
+- 🎓 Final-year B.Tech Computer Science student at Bennett University (2022–2026)
+- 🛠️ Full-stack developer focused on scalable web applications, APIs, and AI-powered tools
 - ☁️ AWS Certified Cloud Practitioner
-- 📚 Published researcher (IEEE ICCSAI 2025)
-- 🎯 Preparing for Software Engineer roles at top engineering companies
+- 📚 Published researcher with papers in IEEE ICCSAI 2025 and ICCCNT 2023
+- 🎯 Preparing for Software Engineer roles in product and engineering-focused companies
 
 ---
 
@@ -70,4 +69,59 @@ Citizen reporting system with geotagged evidence uploads and secure REST APIs.
 **Tech:** Express.js, MongoDB, AWS S3
 
 ### 🛒 E-Commerce Platform
-Full-stack application with authentication, payments,
+Full-stack application with authentication, payments, and inventory management.
+
+**Tech:** React, Flask, PostgreSQL, Stripe
+
+---
+
+## 🏆 Certifications & Publications
+
+- ☁️ AWS Certified Cloud Practitioner
+- 📄 IEEE ICCSAI 2025 Publication
+- 📄 ICCCNT 2023 Publication
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Strarist&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strarist&layout=compact&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Strarist&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Data Structures and Algorithms
+- System Design Fundamentals
+- Advanced SQL and Database Design
+- Docker and Kubernetes
+- Building production-grade AI and cloud applications
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adigupta1620/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adig167320@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Strarist">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building scalable software, cloud-native systems, and AI-powered applications.</i>
+</p>
