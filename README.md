@@ -79,8 +79,6 @@ Full-stack application with authentication, payments, and inventory management.
 
 - ☁️ AWS Certified Cloud Practitioner
 - 📄 IEEE ICCSAI 2025 Publication
-- 📄 ICCCNT 2023 Publication
-
 ---
 
 ## 📊 GitHub Stats
