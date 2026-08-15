@@ -17,11 +17,12 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year B.Tech Computer Science student at Bennett University (2022–2026)
-- 🛠️ Full-stack developer focused on scalable web applications, APIs, and AI-powered tools
-- ☁️ AWS Certified Cloud Practitioner
-- 📚 Published researcher with papers in IEEE ICCSAI 2025 and ICCCNT 2023
-- 🎯 Preparing for Software Engineer roles in product and engineering-focused companies
+* 🎓 B.Tech Computer Science graduate from Bennett University (2022–2026)
+* 🛠️ Full-stack developer focused on scalable applications, APIs, and AI-powered systems
+* ☁️ AWS Certified Cloud Practitioner with hands-on cloud and DevOps experience
+* 📚 Published researcher with papers at IEEE ICCSSAI 2025 and ICCCNT 2023
+* 🎯 Software Engineer focused on building reliable, production-ready systems
+
 
 ---
 
